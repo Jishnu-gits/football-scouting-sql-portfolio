@@ -1,0 +1,501 @@
+player_id,name,last_season,current_club_id,current_club_name,country_of_citizenship,date_of_birth,position,sub_position,foot,height_in_cm,market_value_in_eur,highest_market_value_in_eur,contract_expiration_date
+418560,Erling Haaland,2025,281,Manchester City,Norway,2000-07-21,Attack,Centre-Forward,left,195.0,200000000.0,200000000.0,2034-06-30
+937958,Lamine Yamal,2025,131,FC Barcelona,Spain,2007-07-13,Attack,Right Winger,left,183.0,200000000.0,200000000.0,2031-06-30
+342229,Kylian Mbappé,2025,418,Real Madrid,France,1998-12-20,Attack,Centre-Forward,right,180.0,180000000.0,200000000.0,2029-06-30
+566723,Michael Olise,2025,27,Bayern Munich,France,2001-12-12,Attack,Right Winger,left,180.0,150000000.0,150000000.0,2029-06-30
+683840,Pedri,2025,131,FC Barcelona,Spain,2002-11-25,Midfield,Central Midfield,right,174.0,150000000.0,150000000.0,2030-06-30
+371998,Vinicius Junior,2025,418,Real Madrid,Brazil,2000-07-12,Attack,Left Winger,right,176.0,140000000.0,200000000.0,2027-06-30
+487469,Vitinha,2025,583,Paris Saint-Germain,Portugal,2000-02-13,Midfield,Defensive Midfield,right,170.0,140000000.0,140000000.0,2029-06-30
+502670,Khvicha Kvaratskhelia,2025,583,Paris Saint-Germain,Georgia,2001-02-12,Attack,Left Winger,both,183.0,140000000.0,140000000.0,2029-06-30
+670681,João Neves,2025,583,Paris Saint-Germain,Portugal,2004-09-27,Midfield,Central Midfield,right,171.0,140000000.0,140000000.0,2029-06-30
+581678,Jude Bellingham,2025,418,Real Madrid,England,2003-06-29,Midfield,Attacking Midfield,right,186.0,130000000.0,180000000.0,2029-06-30
+357662,Declan Rice,2025,11,Arsenal FC,England,1999-01-14,Midfield,Central Midfield,right,188.0,120000000.0,120000000.0,2028-06-30
+914562,Désiré Doué,2025,583,Paris Saint-Germain,France,2005-06-03,Attack,Right Winger,right,181.0,120000000.0,120000000.0,2029-06-30
+433177,Bukayo Saka,2025,11,Arsenal FC,England,2001-09-05,Attack,Right Winger,left,178.0,110000000.0,150000000.0,2030-06-30
+580195,Jamal Musiala,2025,27,Bayern Munich,Germany,2003-02-26,Midfield,Attacking Midfield,right,184.0,100000000.0,140000000.0,2030-06-30
+598577,Florian Wirtz,2025,31,Liverpool FC,Germany,2003-05-03,Midfield,Attacking Midfield,right,177.0,100000000.0,140000000.0,2030-06-30
+568177,Cole Palmer,2025,631,Chelsea FC,England,2002-05-06,Midfield,Attacking Midfield,left,185.0,100000000.0,130000000.0,2033-06-30
+288230,Ousmane Dembélé,2025,583,Paris Saint-Germain,France,1997-05-15,Attack,Centre-Forward,both,179.0,100000000.0,120000000.0,2028-06-30
+687626,Moisés Caicedo,2025,631,Chelsea FC,Ecuador,2001-11-02,Midfield,Defensive Midfield,right,178.0,100000000.0,110000000.0,2033-06-30
+451276,Dominik Szoboszlai,2025,31,Liverpool FC,Hungary,2000-10-25,Midfield,Attacking Midfield,right,187.0,100000000.0,100000000.0,2028-06-30
+495666,William Saliba,2025,11,Arsenal FC,France,2001-03-24,Defender,Centre-Back,right,192.0,100000000.0,100000000.0,2030-06-30
+576024,Julián Alvarez,2025,13,Atlético de Madrid,Argentina,2000-01-31,Attack,Centre-Forward,right,170.0,100000000.0,100000000.0,2030-06-30
+636703,Fermín López,2025,131,FC Barcelona,Spain,2003-05-11,Midfield,Attacking Midfield,right,176.0,100000000.0,100000000.0,2031-06-30
+369081,Federico Valverde,2025,418,Real Madrid,Uruguay,1998-07-22,Midfield,Central Midfield,right,182.0,90000000.0,130000000.0,2029-06-30
+503743,Morgan Rogers,2025,405,Aston Villa,England,2002-07-26,Midfield,Attacking Midfield,right,187.0,90000000.0,90000000.0,2031-06-30
+607223,Rayan Cherki,2025,281,Manchester City,France,2003-08-17,Midfield,Attacking Midfield,both,177.0,90000000.0,90000000.0,2030-06-30
+648195,Enzo Fernández,2025,631,Chelsea FC,Argentina,2001-01-17,Midfield,Central Midfield,right,178.0,90000000.0,90000000.0,2032-06-30
+792380,Aleksandar Pavlovic,2025,27,Bayern Munich,Germany,2004-05-03,Midfield,Defensive Midfield,both,188.0,90000000.0,90000000.0,2029-06-30
+861410,Arda Güler,2025,418,Real Madrid,Türkiye,2005-02-25,Midfield,Attacking Midfield,left,175.0,90000000.0,90000000.0,2029-06-30
+1390649,Yan Diomande,2025,23826,RB Leipzig,Cote d'Ivoire,2006-11-14,Attack,Left Winger,right,180.0,90000000.0,90000000.0,2030-06-30
+349066,Alexander Isak,2025,31,Liverpool FC,Sweden,1999-09-21,Attack,Centre-Forward,right,190.0,85000000.0,140000000.0,2031-06-30
+406625,Lautaro Martínez,2025,46,Inter Milan,Argentina,1997-08-22,Attack,Centre-Forward,right,174.0,85000000.0,110000000.0,2029-06-30
+478573,Ryan Gravenberch,2025,31,Liverpool FC,Netherlands,2002-05-16,Midfield,Defensive Midfield,right,190.0,80000000.0,90000000.0,2032-06-30
+709726,Hugo Ekitiké,2025,31,Liverpool FC,France,2002-06-20,Attack,Centre-Forward,right,190.0,80000000.0,90000000.0,2031-06-30
+397033,Sandro Tonali,2025,762,Newcastle United,Italy,2000-05-08,Midfield,Defensive Midfield,right,181.0,80000000.0,80000000.0,2032-06-30
+398073,Achraf Hakimi,2025,583,Paris Saint-Germain,Morocco,1998-11-04,Defender,Right-Back,right,180.0,80000000.0,80000000.0,2029-06-30
+583255,Antoine Semenyo,2025,281,Manchester City,Ghana,2000-01-07,Attack,Right Winger,right,185.0,80000000.0,80000000.0,2031-06-30
+616341,Nuno Mendes,2025,583,Paris Saint-Germain,Portugal,2002-06-19,Defender,Left-Back,left,177.0,80000000.0,80000000.0,2029-06-30
+626724,João Pedro,2025,631,Chelsea FC,Brazil,2001-09-26,Attack,Centre-Forward,right,186.0,80000000.0,80000000.0,2033-06-30
+661171,Willian Pacho,2025,583,Paris Saint-Germain,Ecuador,2001-10-16,Defender,Centre-Back,left,188.0,80000000.0,80000000.0,2029-06-30
+810092,Warren Zaïre-Emery,2025,583,Paris Saint-Germain,France,2006-03-08,Midfield,Central Midfield,right,176.0,80000000.0,80000000.0,2029-06-30
+948294,Nico Paz,2025,1047,Como 1907,Argentina,2004-09-08,Midfield,Attacking Midfield,left,185.0,80000000.0,80000000.0,2028-06-30
+962110,Pau Cubarsí,2025,131,FC Barcelona,Spain,2007-01-22,Defender,Centre-Back,right,184.0,80000000.0,80000000.0,2029-06-30
+1056993,Estêvão,2025,631,Chelsea FC,Brazil,2007-04-24,Attack,Right Winger,left,178.0,80000000.0,80000000.0,2033-06-30
+401923,Victor Osimhen,2025,141,Galatasaray,Nigeria,1998-12-29,Attack,Centre-Forward,right,186.0,75000000.0,120000000.0,2029-06-30
+413039,Bryan Mbeumo,2025,985,Manchester United,Cameroon,1999-08-07,Attack,Right Winger,left,171.0,75000000.0,80000000.0,2030-06-30
+423440,Martín Zubimendi,2025,11,Arsenal FC,Spain,1999-02-02,Midfield,Defensive Midfield,right,181.0,75000000.0,80000000.0,2030-06-30
+435338,Gabriel,2025,11,Arsenal FC,Brazil,1997-12-19,Defender,Centre-Back,left,190.0,75000000.0,75000000.0,2029-06-30
+486049,Jérémy Doku,2025,281,Manchester City,Belgium,2002-05-27,Attack,Left Winger,right,173.0,75000000.0,75000000.0,2028-06-30
+517894,Matheus Cunha,2025,985,Manchester United,Brazil,1999-05-27,Attack,Centre-Forward,right,183.0,75000000.0,75000000.0,2030-06-30
+567576,Elliot Anderson,2025,703,Nottingham Forest,England,2002-11-06,Midfield,Central Midfield,right,179.0,75000000.0,75000000.0,
+627442,Benjamin Sesko,2025,985,Manchester United,Slovenia,2003-05-31,Attack,Centre-Forward,right,195.0,75000000.0,75000000.0,2030-06-30
+845654,Kenan Yıldız,2025,506,Juventus FC,Türkiye,2005-05-04,Attack,Left Winger,both,187.0,75000000.0,75000000.0,2030-06-30
+406635,Phil Foden,2025,281,Manchester City,England,2000-05-28,Midfield,Attacking Midfield,left,171.0,70000000.0,150000000.0,2027-06-30
+413112,Aurélien Tchouaméni,2025,418,Real Madrid,France,2000-01-27,Midfield,Defensive Midfield,right,188.0,70000000.0,100000000.0,2028-06-30
+534033,Alexis Mac Allister,2025,31,Liverpool FC,Argentina,1998-12-24,Midfield,Central Midfield,right,176.0,70000000.0,100000000.0,2028-06-30
+411295,Raphinha,2025,131,FC Barcelona,Brazil,1996-12-14,Attack,Left Winger,left,176.0,70000000.0,90000000.0,2028-06-30
+480692,Luis Díaz,2025,27,Bayern Munich,Colombia,1997-01-13,Attack,Left Winger,right,179.0,70000000.0,85000000.0,2029-06-30
+520624,Bruno Guimarães,2025,762,Newcastle United,Brazil,1997-11-16,Midfield,Central Midfield,right,182.0,70000000.0,85000000.0,2028-06-30
+475959,Josko Gvardiol,2025,281,Manchester City,Croatia,2002-01-23,Defender,Centre-Back,left,185.0,70000000.0,80000000.0,2028-06-30
+344695,Dayot Upamecano,2025,27,Bayern Munich,France,1998-10-27,Defender,Centre-Back,right,186.0,70000000.0,70000000.0,2030-06-30
+392757,Marc Guéhi,2025,281,Manchester City,England,2000-07-13,Defender,Centre-Back,right,182.0,70000000.0,70000000.0,2031-06-30
+420243,Jurriën Timber,2025,11,Arsenal FC,Netherlands,2001-06-17,Defender,Right-Back,right,179.0,70000000.0,70000000.0,2028-06-30
+429014,Morgan Gibbs-White,2025,703,Nottingham Forest,England,2000-01-27,Midfield,Attacking Midfield,right,171.0,70000000.0,70000000.0,2028-06-30
+708265,Bradley Barcola,2025,583,Paris Saint-Germain,France,2002-09-02,Attack,Left Winger,right,187.0,70000000.0,70000000.0,2028-06-30
+743413,Nico O'Reilly,2025,281,Manchester City,England,2005-03-21,Defender,Left-Back,left,193.0,70000000.0,70000000.0,2030-06-30
+744149,Adam Wharton,2025,873,Crystal Palace,England,2004-02-06,Midfield,Defensive Midfield,left,182.0,70000000.0,70000000.0,2029-06-30
+820374,Kobbie Mainoo,2025,985,Manchester United,England,2005-04-19,Midfield,Central Midfield,right,184.0,70000000.0,70000000.0,2031-06-30
+955357,Junior Kroupi,2025,989,AFC Bournemouth,France,2006-06-23,Attack,Centre-Forward,right,179.0,70000000.0,70000000.0,2030-06-30
+316264,Martin Ødegaard,2025,11,Arsenal FC,Norway,1998-12-17,Midfield,Attacking Midfield,left,178.0,65000000.0,110000000.0,2028-06-30
+315853,Alessandro Bastoni,2025,46,Inter Milan,Italy,1999-04-13,Defender,Centre-Back,left,190.0,65000000.0,80000000.0,2028-06-30
+325443,Viktor Gyökeres,2025,11,Arsenal FC,Sweden,1998-06-04,Attack,Centre-Forward,right,189.0,65000000.0,75000000.0,2030-06-30
+479999,Eberechi Eze,2025,11,Arsenal FC,England,1998-06-29,Midfield,Attacking Midfield,right,178.0,65000000.0,65000000.0,2029-06-30
+503733,Anthony Gordon,2025,762,Newcastle United,England,2001-02-24,Attack,Left Winger,right,183.0,65000000.0,65000000.0,2031-06-30
+739443,Igor Thiago,2025,1148,Brentford FC,Brazil,2001-06-26,Attack,Centre-Forward,right,190.0,65000000.0,65000000.0,2031-06-30
+132098,Harry Kane,2025,27,Bayern Munich,England,1993-07-28,Attack,Centre-Forward,right,188.0,60000000.0,150000000.0,2027-06-30
+314353,Trent Alexander-Arnold,2025,418,Real Madrid,England,1998-10-07,Defender,Right-Back,right,180.0,60000000.0,110000000.0,2031-06-30
+434675,Cody Gakpo,2025,31,Liverpool FC,Netherlands,1999-05-07,Attack,Left Winger,right,193.0,60000000.0,70000000.0,2030-06-30
+472423,Reece James,2025,631,Chelsea FC,England,1999-12-08,Defender,Right-Back,right,180.0,60000000.0,70000000.0,2032-06-30
+890290,Dean Huijsen,2025,418,Real Madrid,Spain,2005-04-14,Defender,Centre-Back,both,197.0,60000000.0,70000000.0,2030-06-30
+411975,Jules Koundé,2025,131,FC Barcelona,France,1998-11-12,Defender,Right-Back,right,181.0,60000000.0,65000000.0,2030-06-30
+610442,Rasmus Højlund,2025,6195,SSC Napoli,Denmark,2003-02-04,Attack,Centre-Forward,left,191.0,60000000.0,65000000.0,2030-06-30
+293385,Dani Olmo,2025,131,FC Barcelona,Spain,1998-05-07,Midfield,Attacking Midfield,right,179.0,60000000.0,60000000.0,2030-06-30
+487465,Pedro Neto,2025,631,Chelsea FC,Portugal,2000-03-09,Attack,Right Winger,left,174.0,60000000.0,60000000.0,2031-06-30
+892160,Luka Vuskovic,2025,148,Tottenham Hotspur,Croatia,2007-02-24,Defender,Centre-Back,right,193.0,60000000.0,60000000.0,2030-06-30
+1012564,Rayan,2025,989,AFC Bournemouth,Brazil,2006-08-03,Attack,Right Winger,left,187.0,60000000.0,60000000.0,2031-06-30
+1075147,Lennart Karl,2025,27,Bayern Munich,Germany,2008-02-22,Midfield,Attacking Midfield,left,168.0,60000000.0,60000000.0,2029-06-30
+309400,Kai Havertz,2025,11,Arsenal FC,Germany,1999-06-11,Attack,Centre-Forward,left,193.0,55000000.0,90000000.0,2028-06-30
+258004,Rúben Dias,2025,281,Manchester City,Portugal,1997-05-14,Defender,Centre-Back,right,187.0,55000000.0,80000000.0,2029-06-30
+455661,Nick Woltemade,2025,762,Newcastle United,Germany,2002-02-14,Attack,Centre-Forward,right,198.0,55000000.0,70000000.0,2031-06-30
+775605,Pablo Barrios,2025,13,Atlético de Madrid,Spain,2003-06-15,Midfield,Central Midfield,right,181.0,55000000.0,60000000.0,2030-06-30
+973085,Carlos Baleba,2025,1237,Brighton & Hove Albion,Cameroon,2004-01-03,Midfield,Defensive Midfield,left,179.0,55000000.0,60000000.0,2028-06-30
+388198,Nico Schlotterbeck,2025,16,Borussia Dortmund,Germany,1999-12-01,Defender,Centre-Back,left,191.0,55000000.0,55000000.0,2031-06-30
+502821,Riccardo Calafiori,2025,11,Arsenal FC,Italy,2002-05-19,Defender,Left-Back,left,188.0,55000000.0,55000000.0,2029-06-30
+532826,Mason Greenwood,2025,244,Olympique Marseille,England,2001-10-01,Attack,Right Winger,both,181.0,55000000.0,55000000.0,2029-06-30
+623570,Iliman Ndiaye,2025,29,Everton FC,Senegal,2000-03-06,Attack,Right Winger,right,180.0,55000000.0,55000000.0,2029-06-30
+1004301,Jérémy Jacquet,2025,273,Stade Rennais FC,France,2005-07-13,Defender,Centre-Back,right,190.0,55000000.0,55000000.0,2031-06-30
+357565,Rodri,2025,281,Manchester City,Spain,1996-06-22,Midfield,Defensive Midfield,right,190.0,50000000.0,130000000.0,2027-06-30
+640428,Eduardo Camavinga,2025,418,Real Madrid,France,2002-11-10,Midfield,Central Midfield,left,182.0,50000000.0,100000000.0,2029-06-30
+357164,Rafael Leão,2025,5,AC Milan,Portugal,1999-06-10,Attack,Left Winger,right,188.0,50000000.0,90000000.0,2028-06-30
+255942,Nicolò Barella,2025,46,Inter Milan,Italy,1997-02-07,Midfield,Central Midfield,right,175.0,50000000.0,80000000.0,2029-06-30
+318528,Marcus Thuram,2025,46,Inter Milan,France,1997-08-06,Attack,Centre-Forward,right,192.0,50000000.0,75000000.0,2028-06-30
+445939,Omar Marmoush,2025,281,Manchester City,Egypt,1999-02-07,Attack,Centre-Forward,right,183.0,50000000.0,75000000.0,2029-06-30
+460939,Tijjani Reijnders,2025,281,Manchester City,Netherlands,1998-07-29,Midfield,Central Midfield,right,178.0,50000000.0,70000000.0,2030-06-30
+557459,Micky van de Ven,2025,148,Tottenham Hotspur,Netherlands,2001-04-19,Defender,Centre-Back,left,193.0,50000000.0,65000000.0,2029-06-30
+198116,Federico Dimarco,2025,46,Inter Milan,Italy,1997-11-10,Defender,Left-Back,left,175.0,50000000.0,60000000.0,2027-06-30
+636688,Alejandro Balde,2025,131,FC Barcelona,Spain,2003-10-18,Defender,Left-Back,left,177.0,50000000.0,60000000.0,2028-06-30
+811778,Álvaro Carreras,2025,418,Real Madrid,Spain,2003-03-23,Defender,Left-Back,left,186.0,50000000.0,60000000.0,2031-06-30
+284857,Marc Cucurella,2025,631,Chelsea FC,Spain,1998-07-22,Defender,Left-Back,left,173.0,50000000.0,55000000.0,2032-06-30
+543499,Mohammed Kudus,2025,148,Tottenham Hotspur,Ghana,2000-08-02,Attack,Right Winger,left,177.0,50000000.0,55000000.0,2031-06-30
+601883,Matheus Nunes,2025,281,Manchester City,Portugal,1998-08-27,Defender,Right-Back,right,183.0,50000000.0,55000000.0,2028-06-30
+614258,Levi Colwill,2025,631,Chelsea FC,England,2003-02-26,Defender,Centre-Back,left,187.0,50000000.0,55000000.0,2029-06-30
+923831,Leny Yoro,2025,985,Manchester United,France,2005-11-13,Defender,Centre-Back,right,190.0,50000000.0,55000000.0,2029-06-30
+1005649,Murillo,2025,703,Nottingham Forest,Brazil,2002-07-04,Defender,Centre-Back,left,180.0,50000000.0,55000000.0,2030-06-30
+398184,Ferran Torres,2025,131,FC Barcelona,Spain,2000-02-29,Attack,Centre-Forward,right,183.0,50000000.0,50000000.0,2027-06-30
+406640,Felix Nmecha,2025,16,Borussia Dortmund,Germany,2000-10-10,Midfield,Central Midfield,right,190.0,50000000.0,50000000.0,2030-06-30
+434224,Maxence Lacroix,2025,873,Crystal Palace,France,2000-04-06,Defender,Centre-Back,right,190.0,50000000.0,50000000.0,2029-06-30
+441986,Yann Bisseck,2025,46,Inter Milan,Germany,2000-11-29,Defender,Centre-Back,right,196.0,50000000.0,50000000.0,2029-06-30
+503987,Noni Madueke,2025,11,Arsenal FC,England,2002-03-10,Attack,Right Winger,left,182.0,50000000.0,50000000.0,2030-06-30
+618472,Castello Lukeba,2025,23826,RB Leipzig,France,2002-12-17,Defender,Centre-Back,left,184.0,50000000.0,50000000.0,2029-06-30
+624690,Manu Koné,2025,12,Associazione Sportiva Roma,France,2001-05-17,Midfield,Central Midfield,right,185.0,50000000.0,50000000.0,2029-06-30
+659813,Piero Hincapié,2025,11,Arsenal FC,Ecuador,2002-01-09,Defender,Centre-Back,left,183.0,50000000.0,50000000.0,2031-06-30
+733576,Alberto Moleiro,2025,1050,Villarreal CF,Spain,2003-09-30,Attack,Left Winger,right,171.0,50000000.0,50000000.0,2030-06-30
+745200,Maghnes Akliouche,2025,162,AS Monaco,France,2002-02-25,Attack,Right Winger,left,183.0,50000000.0,50000000.0,2028-06-30
+763079,Abdukodir Khusanov,2025,281,Manchester City,Uzbekistan,2004-02-29,Defender,Centre-Back,right,186.0,50000000.0,50000000.0,2029-06-30
+855256,Alex Scott,2025,989,AFC Bournemouth,England,2003-08-21,Midfield,Central Midfield,right,178.0,50000000.0,50000000.0,2028-06-30
+880245,Mateus Fernandes,2025,379,West Ham United,Portugal,2004-07-10,Midfield,Central Midfield,right,180.0,50000000.0,50000000.0,2031-06-30
+926993,Victor Froholdt,2025,720,FC Porto,Denmark,2006-02-25,Midfield,Central Midfield,right,187.0,50000000.0,50000000.0,2030-06-30
+927353,Johan Manzambi,2025,60,SC Freiburg,Switzerland,2005-10-14,Midfield,Central Midfield,right,182.0,50000000.0,50000000.0,2030-06-30
+1097139,Ayyoub Bouaddi,2025,1082,LOSC Lille,Morocco,2007-10-02,Midfield,Central Midfield,right,185.0,50000000.0,50000000.0,2029-06-30
+412363,Rodrygo,2025,418,Real Madrid,Brazil,2001-01-09,Attack,Right Winger,right,174.0,45000000.0,110000000.0,2028-06-30
+655488,Gabriel Martinelli,2025,11,Arsenal FC,Brazil,2001-06-18,Attack,Left Winger,right,178.0,45000000.0,85000000.0,2027-06-30
+315858,Gianluigi Donnarumma,2025,281,Manchester City,Italy,1999-02-25,Goalkeeper,Goalkeeper,right,196.0,45000000.0,65000000.0,2030-06-30
+355915,Cristian Romero,2025,148,Tottenham Hotspur,Argentina,1998-04-27,Defender,Centre-Back,right,185.0,45000000.0,65000000.0,2029-06-30
+357119,Ibrahima Konaté,2025,31,Liverpool FC,France,1999-05-25,Defender,Centre-Back,right,194.0,45000000.0,60000000.0,2030-06-30
+485706,Amadou Onana,2025,405,Aston Villa,Belgium,2001-08-16,Midfield,Defensive Midfield,right,195.0,45000000.0,55000000.0,2029-06-30
+461496,Morten Hjulmand,2025,336,Sporting CP,Denmark,1999-06-25,Midfield,Defensive Midfield,right,185.0,45000000.0,50000000.0,2031-06-30
+536835,Amad Diallo,2025,985,Manchester United,Cote d'Ivoire,2002-07-11,Attack,Right Winger,left,173.0,45000000.0,50000000.0,2030-06-30
+607854,Éderson,2025,800,Atalanta BC,Brazil,1999-07-07,Midfield,Central Midfield,right,183.0,45000000.0,50000000.0,2027-06-30
+991268,Samu Aghehowa,2025,720,FC Porto,Spain,2004-05-05,Attack,Centre-Forward,right,193.0,45000000.0,50000000.0,2029-06-30
+1057316,Franco Mastantuono,2025,418,Real Madrid,Argentina,2007-08-14,Attack,Right Winger,left,178.0,45000000.0,50000000.0,2031-06-30
+326029,Donyell Malen,2025,12,Associazione Sportiva Roma,Netherlands,1999-01-19,Attack,Centre-Forward,right,178.0,45000000.0,45000000.0,2030-06-30
+443710,Angelo Stiller,2025,79,VfB Stuttgart,Germany,2001-04-04,Midfield,Defensive Midfield,left,183.0,45000000.0,45000000.0,2028-06-30
+503981,Tino Livramento,2025,762,Newcastle United,England,2002-11-12,Defender,Right-Back,right,182.0,45000000.0,45000000.0,2028-06-30
+505219,James Garner,2025,29,Everton FC,England,2001-03-13,Midfield,Defensive Midfield,right,182.0,45000000.0,45000000.0,2030-06-30
+521964,Malick Thiaw,2025,762,Newcastle United,Germany,2001-08-08,Defender,Centre-Back,right,194.0,45000000.0,45000000.0,2029-06-30
+561613,Joan García,2025,131,FC Barcelona,Spain,2001-05-04,Goalkeeper,Goalkeeper,right,194.0,45000000.0,45000000.0,2031-06-30
+576314,Jan Paul van Hecke,2025,1237,Brighton & Hove Albion,Netherlands,2000-06-08,Defender,Centre-Back,right,189.0,45000000.0,45000000.0,
+632349,Jarell Quansah,2025,15,Bayer 04 Leverkusen,England,2003-01-29,Defender,Centre-Back,right,190.0,45000000.0,45000000.0,2030-06-30
+816585,Can Uzun,2025,24,Eintracht Frankfurt,Türkiye,2005-11-11,Midfield,Attacking Midfield,right,186.0,45000000.0,45000000.0,2029-06-30
+890721,Myles Lewis-Skelly,2025,11,Arsenal FC,England,2006-09-26,Defender,Left-Back,left,178.0,45000000.0,45000000.0,2030-06-30
+905011,Ibrahim Maza,2025,15,Bayer 04 Leverkusen,Algeria,2005-11-24,Midfield,Attacking Midfield,right,180.0,45000000.0,45000000.0,2030-06-30
+930781,Pio Esposito,2025,46,Inter Milan,Italy,2005-06-28,Attack,Centre-Forward,right,191.0,45000000.0,45000000.0,2030-06-30
+1012534,Yankuba Minteh,2025,1237,Brighton & Hove Albion,The Gambia,2004-07-22,Attack,Right Winger,left,180.0,45000000.0,45000000.0,2029-06-30
+1168219,Said El Mala,2025,3,1.FC Köln,Germany,2006-08-26,Attack,Left Winger,both,187.0,45000000.0,45000000.0,2030-06-30
+974982,Ousmane Diomande,2025,336,Sporting CP,Cote d'Ivoire,2003-12-04,Defender,Centre-Back,right,190.0,42000000.0,45000000.0,2030-06-30
+1138758,Geovany Quenda,2025,336,Sporting CP,Portugal,2007-04-30,Attack,Right Winger,left,172.0,42000000.0,45000000.0,2034-06-30
+258923,Marcus Rashford,2025,131,FC Barcelona,England,1997-10-31,Attack,Left Winger,right,185.0,40000000.0,85000000.0,2028-06-30
+424204,Alphonso Davies,2025,27,Bayern Munich,Canada,2000-11-02,Defender,Left-Back,left,183.0,40000000.0,80000000.0,2030-06-30
+566931,Xavi Simons,2025,23826,RB Leipzig,Netherlands,2003-04-21,Midfield,Attacking Midfield,right,179.0,40000000.0,80000000.0,2030-06-30
+602105,Antony,2025,150,Real Betis Balompié,Brazil,2000-02-24,Attack,Right Winger,left,172.0,40000000.0,75000000.0,2030-06-30
+709187,Nico Williams,2025,621,Athletic Bilbao,Spain,2002-07-12,Attack,Left Winger,right,181.0,40000000.0,70000000.0,2035-06-30
+315779,Christian Pulisic,2025,5,AC Milan,United States,1998-09-18,Attack,Right Winger,right,177.0,40000000.0,60000000.0,2027-06-30
+340950,Diogo Jota,2025,4023,,Portugal,1996-12-04,Attack,Left Winger,right,178.0,40000000.0,60000000.0,
+406040,Ademola Lookman,2025,800,Atalanta BC,Nigeria,1997-10-20,Attack,Left Winger,right,174.0,40000000.0,60000000.0,2030-06-30
+496094,Karim Adeyemi,2025,16,Borussia Dortmund,Germany,2002-01-18,Attack,Right Winger,left,180.0,40000000.0,60000000.0,2027-06-30
+971570,Endrick,2025,418,Real Madrid,Brazil,2006-07-21,Attack,Centre-Forward,left,172.0,40000000.0,60000000.0,2030-06-30
+548111,Álex Baena,2025,13,Atlético de Madrid,Spain,2001-07-20,Attack,Left Winger,right,172.0,40000000.0,55000000.0,2030-06-30
+659089,Ilya Zabarnyi,2025,583,Paris Saint-Germain,Ukraine,2002-09-01,Defender,Centre-Back,right,189.0,40000000.0,55000000.0,2030-06-30
+776890,Nicolas Jackson,2025,27,Bayern Munich,Senegal,2001-06-20,Attack,Centre-Forward,right,187.0,40000000.0,55000000.0,2033-06-30
+315969,Scott McTominay,2025,6195,SSC Napoli,Scotland,1996-12-08,Midfield,Central Midfield,right,193.0,40000000.0,50000000.0,2028-06-30
+480762,Lisandro Martínez,2025,985,Manchester United,Argentina,1998-01-18,Defender,Centre-Back,left,175.0,40000000.0,50000000.0,2027-06-30
+661053,Jarrad Branthwaite,2025,29,Everton FC,England,2002-06-27,Defender,Centre-Back,left,195.0,40000000.0,50000000.0,2030-06-30
+357153,Diogo Costa,2025,720,FC Porto,Portugal,1999-09-19,Goalkeeper,Goalkeeper,right,188.0,40000000.0,45000000.0,2030-06-30
+429983,Jørgen Strand Larsen,2025,543,Wolverhampton Wanderers,Norway,2000-02-06,Attack,Centre-Forward,right,193.0,40000000.0,45000000.0,2030-06-30
+466805,Nico González,2025,281,Manchester City,Spain,2002-01-03,Midfield,Defensive Midfield,right,188.0,40000000.0,45000000.0,2029-06-30
+549006,Gonçalo Inácio,2025,336,Sporting CP,Portugal,2001-08-25,Defender,Centre-Back,left,185.0,40000000.0,45000000.0,2030-06-30
+743600,Andrey Santos,2025,631,Chelsea FC,Brazil,2004-05-03,Midfield,Central Midfield,right,180.0,40000000.0,45000000.0,2030-06-30
+257814,Gregor Kobel,2025,16,Borussia Dortmund,Switzerland,1997-12-06,Goalkeeper,Goalkeeper,right,196.0,40000000.0,40000000.0,2028-06-30
+324278,Christoph Baumgartner,2025,23826,RB Leipzig,Austria,1999-08-01,Midfield,Attacking Midfield,right,180.0,40000000.0,40000000.0,2028-06-30
+346314,Trevoh Chalobah,2025,631,Chelsea FC,England,1999-07-05,Defender,Centre-Back,right,192.0,40000000.0,40000000.0,2028-06-30
+394327,Boubacar Kamara,2025,405,Aston Villa,France,1999-11-23,Midfield,Defensive Midfield,right,184.0,40000000.0,40000000.0,2030-06-30
+410225,Ismaïla Sarr,2025,873,Crystal Palace,Senegal,1998-02-25,Attack,Right Winger,right,185.0,40000000.0,40000000.0,2029-06-30
+412669,Francisco Trincão,2025,336,Sporting CP,Portugal,1999-12-29,Midfield,Attacking Midfield,left,184.0,40000000.0,40000000.0,2030-06-30
+413403,Ezri Konsa,2025,405,Aston Villa,England,1997-10-23,Defender,Centre-Back,right,180.0,40000000.0,40000000.0,2028-06-30
+451677,Christos Tzolis,2025,2282,Club Brugge KV,Greece,2002-01-30,Attack,Left Winger,right,179.0,40000000.0,40000000.0,2029-06-30
+466794,Eric García,2025,131,FC Barcelona,Spain,2001-01-09,Defender,Centre-Back,right,183.0,40000000.0,40000000.0,2031-06-30
+483046,Josip Stanisic,2025,27,Bayern Munich,Croatia,2000-04-02,Defender,Right-Back,both,187.0,40000000.0,40000000.0,2029-06-30
+485963,Pape Gueye,2025,1050,Villarreal CF,Senegal,1999-01-24,Midfield,Central Midfield,left,189.0,40000000.0,40000000.0,2028-06-30
+503770,Folarin Balogun,2025,162,AS Monaco,United States,2001-07-03,Attack,Centre-Forward,right,179.0,40000000.0,40000000.0,2028-06-30
+518505,Jamie Leweling,2025,79,VfB Stuttgart,Germany,2001-02-26,Attack,Right Winger,both,185.0,40000000.0,40000000.0,2029-06-30
+565093,Bart Verbruggen,2025,1237,Brighton & Hove Albion,Netherlands,2002-08-18,Goalkeeper,Goalkeeper,right,193.0,40000000.0,40000000.0,2028-06-30
+574671,Strahinja Pavlović,2025,5,AC Milan,Serbia,2001-05-24,Defender,Centre-Back,left,194.0,40000000.0,40000000.0,2028-06-30
+578391,Rayan Aït-Nouri,2025,281,Manchester City,Algeria,2001-06-06,Defender,Left-Back,left,180.0,40000000.0,40000000.0,2030-06-30
+578392,Maximilian Beier,2025,16,Borussia Dortmund,Germany,2002-10-17,Attack,Centre-Forward,right,185.0,40000000.0,40000000.0,2029-06-30
+643574,Kaishu Sano,2025,39,1.FSV Mainz 05,Japan,2000-12-30,Midfield,Defensive Midfield,both,176.0,40000000.0,40000000.0,2028-06-30
+646750,Cristhian Mosquera,2025,11,Arsenal FC,Spain,2004-06-27,Defender,Centre-Back,right,191.0,40000000.0,40000000.0,2030-06-30
+668207,Petar Sučić,2025,46,Inter Milan,Croatia,2003-10-25,Midfield,Central Midfield,right,183.0,40000000.0,40000000.0,2030-06-30
+670858,Lewis Hall,2025,762,Newcastle United,England,2004-09-08,Defender,Left-Back,left,179.0,40000000.0,40000000.0,2029-06-30
+691892,Nathaniel Brown,2025,24,Eintracht Frankfurt,Germany,2003-06-16,Defender,Left-Back,left,176.0,40000000.0,40000000.0,2031-06-30
+702869,Ismael Saibari,2025,383,PSV Eindhoven,Morocco,2001-01-28,Midfield,Attacking Midfield,right,185.0,40000000.0,40000000.0,2031-06-30
+724520,Abde Ezzalzouli,2025,150,Real Betis Balompié,Morocco,2001-12-17,Attack,Left Winger,right,177.0,40000000.0,40000000.0,2029-06-30
+735570,João Gomes,2025,543,Wolverhampton Wanderers,Brazil,2001-02-12,Midfield,Central Midfield,right,176.0,40000000.0,40000000.0,2030-06-30
+742201,Giuliano Simeone,2025,13,Atlético de Madrid,Argentina,2002-12-18,Attack,Right Winger,right,174.0,40000000.0,40000000.0,2030-06-30
+796297,Jobe Bellingham,2025,16,Borussia Dortmund,England,2005-09-23,Midfield,Central Midfield,right,191.0,40000000.0,40000000.0,2030-06-30
+808348,Mamadou Sangaré,2025,826,RC Lens,Mali,2002-06-26,Midfield,Central Midfield,left,181.0,40000000.0,40000000.0,2030-06-30
+822959,Tom Bischof,2025,27,Bayern Munich,Germany,2005-06-28,Midfield,Central Midfield,left,176.0,40000000.0,40000000.0,2029-06-30
+823486,Michael Kayode,2025,1148,Brentford FC,Italy,2004-07-10,Defender,Right-Back,right,179.0,40000000.0,40000000.0,2032-06-30
+849410,Valentín Barco,2025,667,RC Strasbourg Alsace,Argentina,2004-07-23,Midfield,Central Midfield,left,172.0,40000000.0,40000000.0,2029-06-30
+903693,Senny Mayulu,2025,583,Paris Saint-Germain,France,2006-05-17,Midfield,Central Midfield,both,183.0,40000000.0,40000000.0,2027-06-30
+904802,Jorrel Hato,2025,631,Chelsea FC,Netherlands,2006-03-07,Defender,Left-Back,left,182.0,40000000.0,40000000.0,2032-06-30
+918969,Lamine Camara,2025,162,AS Monaco,Senegal,2004-01-01,Midfield,Central Midfield,right,174.0,40000000.0,40000000.0,2029-06-30
+964580,Wesley,2025,12,Associazione Sportiva Roma,Brazil,2003-09-06,Defender,Right-Back,right,178.0,40000000.0,40000000.0,2030-06-30
+1067904,Bazoumana Touré,2025,533,TSG 1899 Hoffenheim,Cote d'Ivoire,2006-03-02,Attack,Left Winger,left,178.0,40000000.0,40000000.0,
+1364454,Christian Kofane,2025,15,Bayer 04 Leverkusen,Cameroon,2006-07-26,Attack,Centre-Forward,right,189.0,40000000.0,40000000.0,2029-06-30
+571604,Giorgio Scalvini,2025,800,Atalanta BC,Italy,2003-12-11,Defender,Centre-Back,right,194.0,38000000.0,45000000.0,2028-06-30
+463618,Khéphren Thuram,2025,506,Juventus FC,France,2001-03-26,Midfield,Central Midfield,right,192.0,38000000.0,40000000.0,2029-06-30
+943837,Vitor Roque,2025,1023,Sociedade Esportiva Palmeiras,Brazil,2005-02-28,Attack,Centre-Forward,right,174.0,38000000.0,40000000.0,2029-12-31
+957653,Rodrigo Mora,2025,720,FC Porto,Portugal,2007-05-05,Midfield,Attacking Midfield,right,168.0,38000000.0,40000000.0,2030-06-30
+161056,Joshua Kimmich,2025,27,Bayern Munich,Germany,1995-02-08,Midfield,Defensive Midfield,right,177.0,35000000.0,90000000.0,2029-06-30
+240306,Bruno Fernandes,2025,985,Manchester United,Portugal,1994-09-08,Midfield,Attacking Midfield,right,183.0,35000000.0,90000000.0,2027-06-30
+326330,Frenkie de Jong,2025,131,FC Barcelona,Netherlands,1997-05-12,Midfield,Central Midfield,right,181.0,35000000.0,90000000.0,2029-06-30
+357498,Dušan Vlahović,2025,506,Juventus FC,Serbia,2000-01-28,Attack,Centre-Forward,left,190.0,35000000.0,85000000.0,
+516716,Bremer,2025,506,Juventus FC,Brazil,1997-03-18,Defender,Centre-Back,right,188.0,35000000.0,60000000.0,2029-06-30
+743591,Savinho,2025,281,Manchester City,Brazil,2004-04-10,Attack,Left Winger,left,176.0,35000000.0,55000000.0,2031-06-30
+890719,Ethan Nwaneri,2025,244,Olympique Marseille,England,2007-03-21,Midfield,Attacking Midfield,left,176.0,35000000.0,55000000.0,2030-06-30
+433188,Curtis Jones,2025,31,Liverpool FC,England,2001-01-30,Midfield,Central Midfield,right,185.0,35000000.0,50000000.0,2027-06-30
+484547,Jeremie Frimpong,2025,31,Liverpool FC,Netherlands,2000-12-10,Defender,Right-Back,right,172.0,35000000.0,50000000.0,2030-06-30
+314678,Brahim Díaz,2025,418,Real Madrid,Morocco,1999-08-03,Attack,Right Winger,both,170.0,35000000.0,45000000.0,2027-06-30
+361093,Sven Botman,2025,762,Newcastle United,Netherlands,2000-01-12,Defender,Centre-Back,left,193.0,35000000.0,45000000.0,2030-06-30
+553875,Pedro Porro,2025,148,Tottenham Hotspur,Spain,1999-09-13,Defender,Right-Back,right,173.0,35000000.0,45000000.0,2031-06-30
+564545,Edmond Tapsoba,2025,15,Bayer 04 Leverkusen,Burkina Faso,1999-02-02,Defender,Centre-Back,right,194.0,35000000.0,45000000.0,2031-06-30
+730861,Milos Kerkez,2025,31,Liverpool FC,Hungary,2003-11-07,Defender,Left-Back,left,180.0,35000000.0,45000000.0,2030-06-30
+503749,Jacob Ramsey,2025,762,Newcastle United,England,2001-05-28,Midfield,Central Midfield,right,180.0,35000000.0,42000000.0,2030-06-30
+711337,Evanilson,2025,989,AFC Bournemouth,Brazil,1999-10-06,Attack,Centre-Forward,both,183.0,35000000.0,40000000.0,2029-06-30
+866246,Lucas Bergvall,2025,148,Tottenham Hotspur,Sweden,2006-02-02,Midfield,Central Midfield,right,187.0,35000000.0,40000000.0,2031-06-30
+922693,Archie Gray,2025,148,Tottenham Hotspur,England,2006-03-12,Midfield,Defensive Midfield,right,187.0,35000000.0,38000000.0,2030-06-30
+338670,Mile Svilar,2025,12,Associazione Sportiva Roma,Serbia,1999-08-27,Goalkeeper,Goalkeeper,right,189.0,35000000.0,35000000.0,2030-06-30
+369316,Ferdi Kadıoğlu,2025,1237,Brighton & Hove Albion,Türkiye,1999-10-07,Defender,Left-Back,right,174.0,35000000.0,35000000.0,2028-06-30
+371149,Evan Ndicka,2025,12,Associazione Sportiva Roma,Cote d'Ivoire,1999-08-20,Defender,Centre-Back,left,192.0,35000000.0,35000000.0,2028-06-30
+404418,Dávid Hancko,2025,13,Atlético de Madrid,Slovakia,1997-12-13,Defender,Centre-Back,left,188.0,35000000.0,35000000.0,2030-06-30
+425918,Jakub Kiwior,2025,11,Arsenal FC,Poland,2000-02-15,Defender,Centre-Back,left,189.0,35000000.0,35000000.0,2030-06-30
+461607,Estéban Lepaul,2025,273,Stade Rennais FC,France,2000-04-18,Attack,Centre-Forward,right,181.0,35000000.0,35000000.0,2030-06-30
+473050,Kevin Schade,2025,1148,Brentford FC,Germany,2001-11-27,Attack,Left Winger,right,185.0,35000000.0,35000000.0,2028-06-30
+474701,Crysencio Summerville,2025,379,West Ham United,Netherlands,2001-10-30,Attack,Left Winger,right,172.0,35000000.0,35000000.0,2029-06-30
+475188,Kiernan Dewsbury-Hall,2025,29,Everton FC,England,1998-09-06,Midfield,Central Midfield,left,176.0,35000000.0,35000000.0,2030-06-30
+503883,Senne Lammens,2025,1096,Royal Antwerp FC,Belgium,2002-07-07,Goalkeeper,Goalkeeper,right,193.0,35000000.0,35000000.0,2030-06-30
+524290,Fisnik Asllani,2025,533,TSG 1899 Hoffenheim,Kosovo,2002-08-08,Attack,Centre-Forward,both,191.0,35000000.0,35000000.0,2029-06-30
+572675,Maxi Araújo,2025,336,Sporting CP,Uruguay,2000-02-15,Defender,Left-Back,left,176.0,35000000.0,35000000.0,2029-06-30
+620322,Malo Gusto,2025,631,Chelsea FC,France,2003-05-19,Defender,Right-Back,right,178.0,35000000.0,35000000.0,2030-06-30
+653610,Igor Paixão,2025,244,Olympique Marseille,Brazil,2000-06-28,Attack,Left Winger,right,168.0,35000000.0,35000000.0,2030-06-30
+654982,Bilal El Khannouss,2025,79,VfB Stuttgart,Morocco,2004-05-10,Midfield,Attacking Midfield,right,180.0,35000000.0,35000000.0,2030-06-30
+667287,Yasin Ayari,2025,1237,Brighton & Hove Albion,Sweden,2003-10-06,Midfield,Central Midfield,right,172.0,35000000.0,35000000.0,2027-06-30
+668547,Máximo Perrone,2025,1047,Como 1907,Argentina,2003-01-07,Midfield,Defensive Midfield,left,177.0,35000000.0,35000000.0,2029-06-30
+668951,Matías Soulé,2025,12,Associazione Sportiva Roma,Argentina,2003-04-15,Attack,Right Winger,left,182.0,35000000.0,35000000.0,2029-06-30
+705395,Gerard Martín,2025,131,FC Barcelona,Spain,2002-02-26,Defender,Centre-Back,left,186.0,35000000.0,35000000.0,2028-06-30
+724129,Matias Fernandez-Pardo,2025,1082,LOSC Lille,Belgium,2005-02-03,Attack,Centre-Forward,right,188.0,35000000.0,35000000.0,2029-06-30
+727089,Noah Sadiki,2025,289,Sunderland AFC,DR Congo,2004-12-17,Midfield,Central Midfield,right,165.0,35000000.0,35000000.0,2030-06-30
+748804,Mika Godts,2025,610,Ajax Amsterdam,Belgium,2005-06-07,Attack,Left Winger,right,176.0,35000000.0,35000000.0,2029-06-30
+823231,Dango Ouattara,2025,1148,Brentford FC,Burkina Faso,2002-02-11,Attack,Right Winger,left,177.0,35000000.0,35000000.0,2030-06-30
+827734,Ange-Yoan Bonny,2025,46,Inter Milan,Cote d'Ivoire,2003-10-25,Attack,Centre-Forward,right,189.0,35000000.0,35000000.0,2030-06-30
+844637,Marc Pubill,2025,13,Atlético de Madrid,Spain,2003-06-20,Defender,Centre-Back,right,191.0,35000000.0,35000000.0,2030-06-30
+876631,Habib Diarra,2025,289,Sunderland AFC,Senegal,2004-01-03,Midfield,Central Midfield,right,178.0,35000000.0,35000000.0,2030-06-30
+895937,Marco Palestra,2025,1390,Cagliari Calcio,Italy,2005-03-03,Defender,Right-Back,both,186.0,35000000.0,35000000.0,2033-06-30
+924117,Finn Jeltsch,2025,79,VfB Stuttgart,Germany,2006-07-17,Defender,Centre-Back,right,188.0,35000000.0,35000000.0,2030-06-30
+926952,Patrick Dorgu,2025,985,Manchester United,Denmark,2004-10-26,Attack,Left Winger,left,185.0,35000000.0,35000000.0,2030-06-30
+990148,Konstantinos Karetsas,2025,1184,KRC Genk,Greece,2007-11-19,Midfield,Attacking Midfield,left,173.0,35000000.0,35000000.0,2029-06-30
+1064871,Joaquín Panichelli,2025,667,RC Strasbourg Alsace,Argentina,2002-10-07,Attack,Centre-Forward,right,190.0,35000000.0,35000000.0,2030-06-30
+893661,Joel Ordóñez,2025,2282,Club Brugge KV,Ecuador,2004-04-21,Defender,Centre-Back,right,188.0,33000000.0,33000000.0,2029-06-30
+444523,Lucas Paquetá,2025,379,West Ham United,Brazil,1997-08-27,Midfield,Attacking Midfield,left,183.0,32000000.0,65000000.0,2030-12-31
+583189,Anthony Elanga,2025,762,Newcastle United,Sweden,2002-04-27,Attack,Right Winger,right,178.0,32000000.0,55000000.0,2030-06-30
+364135,Moise Kean,2025,430,ACF Fiorentina,Italy,2000-02-28,Attack,Centre-Forward,right,183.0,32000000.0,50000000.0,2029-06-30
+488362,Conor Gallagher,2025,148,Tottenham Hotspur,England,2000-02-06,Midfield,Central Midfield,right,182.0,32000000.0,50000000.0,2031-06-30
+270541,Serhou Guirassy,2025,16,Borussia Dortmund,Guinea,1996-03-12,Attack,Centre-Forward,right,187.0,32000000.0,45000000.0,2028-06-30
+365108,Dan Ndoye,2025,703,Nottingham Forest,Switzerland,2000-10-25,Attack,Right Winger,right,184.0,32000000.0,40000000.0,2030-06-30
+398065,Harvey Barnes,2025,762,Newcastle United,England,1997-12-09,Attack,Left Winger,right,182.0,32000000.0,35000000.0,2028-06-30
+585949,Pierre Kalulu,2025,506,Juventus FC,France,2000-06-05,Defender,Centre-Back,right,182.0,32000000.0,35000000.0,2029-06-30
+756990,Alan Varela,2025,720,FC Porto,Argentina,2001-07-04,Midfield,Defensive Midfield,right,177.0,32000000.0,35000000.0,2030-06-30
+849520,Santiago Castro,2025,1025,Bologna Football Club 1909,Argentina,2004-09-18,Attack,Centre-Forward,right,179.0,32000000.0,35000000.0,2030-06-30
+223967,Konrad Laimer,2025,27,Bayern Munich,Austria,1997-05-27,Defender,Right-Back,right,180.0,32000000.0,32000000.0,2027-06-30
+541231,Sepp van den Berg,2025,1148,Brentford FC,Netherlands,2001-12-20,Defender,Centre-Back,right,192.0,32000000.0,32000000.0,2029-06-30
+717411,Yegor Yarmolyuk,2025,1148,Brentford FC,Ukraine,2004-03-01,Midfield,Central Midfield,right,180.0,32000000.0,32000000.0,2031-06-30
+780136,Aleksandar Stanković,2025,2282,Club Brugge KV,Serbia,2005-08-03,Midfield,Defensive Midfield,right,185.0,32000000.0,32000000.0,2031-06-30
+808509,Danilo,2025,537,S. A. F. Botafogo,Brazil,2001-04-29,Midfield,Central Midfield,left,177.0,32000000.0,32000000.0,2029-06-30
+894914,Antonio Nusa,2025,23826,RB Leipzig,Norway,2005-04-17,Attack,Left Winger,right,183.0,32000000.0,32000000.0,2029-06-30
+646740,Gavi,2025,131,FC Barcelona,Spain,2004-08-05,Midfield,Central Midfield,right,173.0,30000000.0,90000000.0,2030-06-30
+326031,Matthijs de Ligt,2025,985,Manchester United,Netherlands,1999-08-12,Defender,Centre-Back,right,189.0,30000000.0,75000000.0,2029-06-30
+350219,Fabián Ruiz,2025,583,Paris Saint-Germain,Spain,1996-04-03,Midfield,Central Midfield,left,188.0,30000000.0,60000000.0,2027-06-30
+533738,Jonathan David,2025,506,Juventus FC,Canada,2000-01-14,Attack,Centre-Forward,both,178.0,30000000.0,60000000.0,2030-06-30
+249565,Youri Tielemans,2025,405,Aston Villa,Belgium,1997-05-07,Midfield,Central Midfield,right,176.0,30000000.0,55000000.0,2028-06-30
+335721,Ben White,2025,11,Arsenal FC,England,1997-10-08,Defender,Right-Back,right,186.0,30000000.0,55000000.0,2028-06-30
+314875,Jarrod Bowen,2025,379,West Ham United,England,1996-12-20,Attack,Right Winger,left,176.0,30000000.0,50000000.0,2030-06-30
+386446,Alessandro Buongiorno,2025,6195,SSC Napoli,Italy,1999-06-06,Defender,Centre-Back,left,190.0,30000000.0,50000000.0,2029-06-30
+470607,Brennan Johnson,2025,148,Tottenham Hotspur,Wales,2001-05-23,Attack,Right Winger,right,186.0,30000000.0,50000000.0,2030-06-30
+550550,Gonçalo Ramos,2025,583,Paris Saint-Germain,Portugal,2001-06-20,Attack,Centre-Forward,right,185.0,30000000.0,50000000.0,2031-06-30
+670882,Jamie Gittens,2025,631,Chelsea FC,England,2004-08-08,Attack,Left Winger,right,178.0,30000000.0,50000000.0,2032-06-30
+554903,Mateo Retegui,2025,26069,Al-Qadsiah Saudi Football Club,Italy,1999-04-29,Attack,Centre-Forward,right,186.0,30000000.0,45000000.0,2028-06-30
+556385,Destiny Udogie,2025,148,Tottenham Hotspur,Italy,2002-11-28,Defender,Left-Back,left,188.0,30000000.0,45000000.0,2030-06-30
+568693,Pape Matar Sarr,2025,148,Tottenham Hotspur,Senegal,2002-09-14,Midfield,Central Midfield,right,185.0,30000000.0,45000000.0,2030-06-30
+262749,David Raya,2025,11,Arsenal FC,Spain,1995-09-15,Goalkeeper,Goalkeeper,right,186.0,30000000.0,40000000.0,2028-06-30
+357147,Diogo Dalot,2025,985,Manchester United,Portugal,1999-03-18,Defender,Right-Back,right,184.0,30000000.0,40000000.0,2028-06-30
+420002,Jean-Philippe Mateta,2025,873,Crystal Palace,France,1997-06-28,Attack,Centre-Forward,right,192.0,30000000.0,40000000.0,2027-06-30
+485585,Ian Maatsen,2025,405,Aston Villa,Netherlands,2002-03-10,Defender,Left-Back,left,178.0,30000000.0,40000000.0,2030-06-30
+568157,Yéremy Pino,2025,1050,Villarreal CF,Spain,2002-10-20,Attack,Right Winger,right,174.0,30000000.0,40000000.0,2030-06-30
+435772,Charles De Ketelaere,2025,800,Atalanta BC,Belgium,2001-03-10,Midfield,Attacking Midfield,left,192.0,30000000.0,38000000.0,2028-06-30
+487474,Francisco Conceição,2025,506,Juventus FC,Portugal,2002-12-14,Attack,Right Winger,left,166.0,30000000.0,36000000.0,2030-06-30
+333647,Jonathan Burkardt,2025,24,Eintracht Frankfurt,Germany,2000-07-11,Attack,Centre-Forward,right,181.0,30000000.0,35000000.0,2030-06-30
+392768,Callum Hudson-Odoi,2025,703,Nottingham Forest,England,2000-11-07,Attack,Left Winger,right,178.0,30000000.0,35000000.0,2028-06-30
+467437,Malik Tillman,2025,15,Bayer 04 Leverkusen,United States,2002-05-28,Midfield,Attacking Midfield,right,187.0,30000000.0,35000000.0,2030-06-30
+469050,Nathan Collins,2025,1148,Brentford FC,Ireland,2001-04-30,Defender,Centre-Back,right,193.0,30000000.0,35000000.0,2029-06-30
+473169,Brian Brobbey,2025,289,Sunderland AFC,Netherlands,2002-02-01,Attack,Centre-Forward,right,181.0,30000000.0,35000000.0,2029-06-30
+741238,Omari Hutchinson,2025,703,Nottingham Forest,England,2003-10-30,Midfield,Attacking Midfield,left,174.0,30000000.0,35000000.0,2030-06-30
+938729,Mikel Jauregizar,2025,621,Athletic Bilbao,Spain,2003-11-13,Midfield,Central Midfield,right,177.0,30000000.0,35000000.0,2031-06-30
+483348,Djed Spence,2025,148,Tottenham Hotspur,England,2000-08-09,Defender,Left-Back,right,184.0,30000000.0,32000000.0,2029-06-30
+504087,Tomás Araújo,2025,294,SL Benfica,Portugal,2002-05-16,Defender,Centre-Back,right,187.0,30000000.0,32000000.0,2029-06-30
+538977,Georginio Rutter,2025,1237,Brighton & Hove Albion,France,2002-04-20,Attack,Centre-Forward,left,182.0,30000000.0,32000000.0,2028-06-30
+318470,Matvey Safonov,2025,583,Paris Saint-Germain,Russia,1999-02-25,Goalkeeper,Goalkeeper,right,192.0,30000000.0,30000000.0,2029-06-30
+332697,Weston McKennie,2025,506,Juventus FC,United States,1998-08-28,Midfield,Central Midfield,right,180.0,30000000.0,30000000.0,2030-06-30
+392771,Ethan Ampadu,2025,399,Leeds United,Wales,2000-09-14,Midfield,Defensive Midfield,right,182.0,30000000.0,30000000.0,2030-06-30
+424784,Luis Suárez,2025,336,Sporting CP,Colombia,1997-12-02,Attack,Centre-Forward,right,179.0,30000000.0,30000000.0,2030-06-30
+434433,Nikola Krstović,2025,1005,US Lecce,Montenegro,2000-04-05,Attack,Centre-Forward,right,185.0,30000000.0,30000000.0,2030-06-30
+459763,Marco Carnesecchi,2025,800,Atalanta BC,Italy,2000-07-01,Goalkeeper,Goalkeeper,right,191.0,30000000.0,30000000.0,2028-06-30
+540941,Mikkel Damsgaard,2025,1148,Brentford FC,Denmark,2000-07-03,Midfield,Attacking Midfield,right,180.0,30000000.0,30000000.0,2030-06-30
+541537,Barış Alper Yılmaz,2025,141,Galatasaray,Türkiye,2000-05-23,Attack,Left Winger,right,186.0,30000000.0,30000000.0,2028-06-30
+580451,Martin Baturina,2025,1047,Como 1907,Croatia,2003-02-16,Midfield,Attacking Midfield,right,172.0,30000000.0,30000000.0,2030-06-30
+606752,Rodrigo Zalazar,2025,1075,SC Braga,Uruguay,1999-08-12,Midfield,Attacking Midfield,right,175.0,30000000.0,30000000.0,2031-06-30
+618341,Mario Gila,2025,398,Società Sportiva Lazio S.p.A.,Spain,2000-08-29,Defender,Centre-Back,right,185.0,30000000.0,30000000.0,2031-06-30
+618494,Tyler Morton,2025,1041,Olympique Lyon,England,2002-10-31,Midfield,Defensive Midfield,right,185.0,30000000.0,30000000.0,2030-06-30
+627207,Ricardo Pepi,2025,383,PSV Eindhoven,United States,2003-01-09,Attack,Centre-Forward,right,185.0,30000000.0,30000000.0,2030-06-30
+654539,Adrien Truffert,2025,989,AFC Bournemouth,France,2001-11-20,Defender,Left-Back,left,176.0,30000000.0,30000000.0,2030-06-30
+667457,Leon Avdullahu,2025,533,TSG 1899 Hoffenheim,Kosovo,2004-02-23,Midfield,Defensive Midfield,right,185.0,30000000.0,30000000.0,2031-06-30
+670103,Andreas Schjelderup,2025,294,SL Benfica,Norway,2004-06-01,Attack,Left Winger,right,177.0,30000000.0,30000000.0,2028-06-30
+699704,Gabri Veiga,2025,720,FC Porto,Spain,2002-05-27,Midfield,Attacking Midfield,right,185.0,30000000.0,30000000.0,2030-06-30
+729814,Georges Mikautadze,2025,1050,Villarreal CF,Georgia,2000-10-31,Attack,Centre-Forward,right,176.0,30000000.0,30000000.0,2031-06-30
+743386,Malick Fofana,2025,1041,Olympique Lyon,Belgium,2005-03-31,Attack,Left Winger,right,169.0,30000000.0,30000000.0,2028-06-30
+743515,Robin Risser,2025,826,RC Lens,France,2004-12-02,Goalkeeper,Goalkeeper,right,193.0,30000000.0,30000000.0,2030-06-30
+813137,Niccolò Pisilli,2025,12,Associazione Sportiva Roma,Italy,2004-09-23,Midfield,Central Midfield,right,180.0,30000000.0,30000000.0,2029-06-30
+935230,Gonzalo García,2025,418,Real Madrid,Spain,2004-03-24,Attack,Centre-Forward,both,182.0,30000000.0,30000000.0,2030-06-30
+935231,Víctor Muñoz,2025,331,CA Osasuna,Spain,2003-07-13,Attack,Left Winger,right,173.0,30000000.0,30000000.0,
+937941,Thierno Barry,2025,29,Everton FC,France,2002-10-21,Attack,Centre-Forward,right,195.0,30000000.0,30000000.0,2029-06-30
+948278,Jacobo Ramón,2025,1047,Como 1907,Spain,2005-01-06,Defender,Centre-Back,right,196.0,30000000.0,30000000.0,2030-06-30
+957874,Rômulo,2025,23826,RB Leipzig,Brazil,2002-02-08,Attack,Centre-Forward,right,193.0,30000000.0,30000000.0,2030-06-30
+1005575,Vitor Reis,2025,12321,Girona FC,Brazil,2006-01-12,Defender,Centre-Back,right,186.0,30000000.0,30000000.0,2029-06-30
+1018920,Marc Bernal,2025,131,FC Barcelona,Spain,2007-05-26,Midfield,Defensive Midfield,left,193.0,30000000.0,30000000.0,2029-06-30
+1061282,Assane Diao,2025,1047,Como 1907,Senegal,2005-09-07,Attack,Left Winger,right,185.0,30000000.0,30000000.0,2029-06-30
+1077175,Honest Ahanor,2025,800,Atalanta BC,Italy,2008-02-23,Defender,Centre-Back,left,184.0,30000000.0,30000000.0,2028-06-30
+1078163,Ayden Heaven,2025,985,Manchester United,England,2006-09-22,Defender,Centre-Back,left,189.0,30000000.0,30000000.0,2029-06-30
+1108466,Rio Ngumoha,2025,31,Liverpool FC,England,2008-08-29,Attack,Left Winger,right,170.0,30000000.0,30000000.0,2028-06-30
+1185888,Ibrahim Mbaye,2025,583,Paris Saint-Germain,Senegal,2008-01-24,Attack,Right Winger,right,175.0,30000000.0,30000000.0,2028-06-30
+1187629,Max Dowman,2025,11,Arsenal FC,England,2009-12-31,Attack,Right Winger,left,183.0,30000000.0,30000000.0,
+1190411,Jesús Rodríguez,2025,1047,Como 1907,Spain,2005-11-21,Attack,Left Winger,right,185.0,30000000.0,30000000.0,2030-06-30
+462250,João Félix,2025,18544,Al-Nassr Football Club,Portugal,1999-11-10,Attack,Second Striker,right,179.0,28000000.0,100000000.0,2027-06-30
+181767,Marquinhos,2025,583,Paris Saint-Germain,Brazil,1994-05-14,Defender,Centre-Back,right,183.0,28000000.0,75000000.0,2028-06-30
+475411,Wesley Fofana,2025,631,Chelsea FC,France,2000-12-17,Defender,Centre-Back,right,188.0,28000000.0,65000000.0,2029-06-30
+418659,Amine Gouiri,2025,244,Olympique Marseille,Algeria,2000-02-16,Attack,Centre-Forward,right,180.0,28000000.0,50000000.0,2029-06-30
+811779,Alejandro Garnacho,2025,631,Chelsea FC,Argentina,2004-07-01,Attack,Left Winger,right,180.0,28000000.0,50000000.0,2032-06-30
+258889,Dominic Solanke,2025,148,Tottenham Hotspur,England,1997-09-14,Attack,Centre-Forward,right,186.0,28000000.0,45000000.0,2030-06-30
+502676,Giorgi Mamardashvili,2025,31,Liverpool FC,Georgia,2000-09-29,Goalkeeper,Goalkeeper,left,197.0,28000000.0,45000000.0,2031-06-30
+196357,Jonathan Tah,2025,27,Bayern Munich,Germany,1996-02-11,Defender,Centre-Back,right,195.0,28000000.0,40000000.0,2029-06-30
+610849,Liam Delap,2025,631,Chelsea FC,England,2003-02-08,Attack,Centre-Forward,right,186.0,28000000.0,40000000.0,2031-06-30
+701057,Rico Lewis,2025,281,Manchester City,England,2004-11-21,Defender,Right-Back,right,170.0,28000000.0,40000000.0,2030-06-30
+931838,Hugo Larsson,2025,24,Eintracht Frankfurt,Sweden,2004-06-27,Midfield,Central Midfield,right,187.0,28000000.0,40000000.0,2029-06-30
+324503,Vangelis Pavlidis,2025,294,SL Benfica,Greece,1998-11-21,Attack,Centre-Forward,both,186.0,28000000.0,35000000.0,2029-06-30
+413507,Nikola Milenković,2025,703,Nottingham Forest,Serbia,1997-10-12,Defender,Centre-Back,right,195.0,28000000.0,35000000.0,2029-06-30
+540664,Dilane Bakwa,2025,667,RC Strasbourg Alsace,France,2002-08-26,Attack,Right Winger,left,180.0,28000000.0,35000000.0,2030-06-30
+548193,Zeno Debast,2025,336,Sporting CP,Belgium,2003-10-24,Defender,Centre-Back,right,191.0,28000000.0,30000000.0,2029-06-30
+557149,Kang-in Lee,2025,583,Paris Saint-Germain,"Korea, South",2001-02-19,Midfield,Attacking Midfield,left,174.0,28000000.0,30000000.0,2028-06-30
+661207,Oscar Bobb,2025,281,Manchester City,Norway,2003-07-12,Attack,Right Winger,left,177.0,28000000.0,30000000.0,2031-06-30
+258919,Dean Henderson,2025,873,Crystal Palace,England,1997-03-12,Goalkeeper,Goalkeeper,right,188.0,28000000.0,28000000.0,2028-06-30
+340918,Caoimhín Kelleher,2025,1148,Brentford FC,Ireland,1998-11-23,Goalkeeper,Goalkeeper,right,188.0,28000000.0,28000000.0,2030-06-30
+344069,Anton Stach,2025,399,Leeds United,Germany,1998-11-15,Midfield,Defensive Midfield,right,194.0,28000000.0,28000000.0,2029-06-30
+461883,Calvin Bassey,2025,931,Fulham FC,Nigeria,1999-12-31,Defender,Centre-Back,left,185.0,28000000.0,28000000.0,2027-06-30
+465555,Djordje Petrovic,2025,989,AFC Bournemouth,Serbia,1999-10-08,Goalkeeper,Goalkeeper,right,194.0,28000000.0,28000000.0,2030-06-30
+503680,Neco Williams,2025,703,Nottingham Forest,Wales,2001-04-13,Defender,Left-Back,right,183.0,28000000.0,28000000.0,2029-06-30
+522784,Taty Castellanos,2025,379,West Ham United,Argentina,1998-10-03,Attack,Centre-Forward,right,178.0,28000000.0,28000000.0,2030-06-30
+578539,Chris Richards,2025,873,Crystal Palace,United States,2000-03-28,Defender,Centre-Back,right,189.0,28000000.0,28000000.0,2027-06-30
+609556,William Osula,2025,762,Newcastle United,Denmark,2003-08-04,Attack,Centre-Forward,right,191.0,28000000.0,28000000.0,2029-06-30
+616631,Matteo Ruggeri,2025,13,Atlético de Madrid,Italy,2002-07-11,Defender,Left-Back,left,187.0,28000000.0,28000000.0,2030-06-30
+633992,Enzo Le Fée,2025,289,Sunderland AFC,France,2000-02-03,Midfield,Central Midfield,right,173.0,28000000.0,28000000.0,2029-06-30
+646991,Robin Roefs,2025,289,Sunderland AFC,Netherlands,2003-01-17,Goalkeeper,Goalkeeper,left,193.0,28000000.0,28000000.0,2030-06-30
+672381,Jonathan Rowe,2025,244,Olympique Marseille,England,2003-04-30,Attack,Left Winger,right,173.0,28000000.0,28000000.0,2029-06-30
+700106,Brajan Gruda,2025,23826,RB Leipzig,Germany,2004-05-31,Midfield,Attacking Midfield,left,178.0,28000000.0,28000000.0,2028-06-30
+720286,Aleksey Batrakov,2025,932,"Футбольный клуб ""Локомотив"" Москва",Russia,2005-06-09,Midfield,Attacking Midfield,right,173.0,28000000.0,28000000.0,2029-06-30
+830365,Alisson Santos,2025,6195,SSC Napoli,Brazil,2002-09-27,Attack,Left Winger,right,177.0,28000000.0,28000000.0,2030-06-30
+842341,Maxime Estève,2025,1132,Burnley FC,France,2002-05-26,Defender,Centre-Back,left,193.0,28000000.0,28000000.0,2030-06-30
+867688,Jack Hinshelwood,2025,1237,Brighton & Hove Albion,England,2005-04-11,Midfield,Defensive Midfield,right,182.0,28000000.0,28000000.0,2029-06-30
+897424,Assan Ouédraogo,2025,23826,RB Leipzig,Germany,2006-05-09,Midfield,Central Midfield,right,191.0,28000000.0,28000000.0,2029-06-30
+1006411,Jaydee Canvot,2025,873,Crystal Palace,France,2006-07-29,Defender,Centre-Back,right,188.0,28000000.0,28000000.0,2029-06-30
+1084638,Karim Coulibaly,2025,86,SV Werder Bremen,Germany,2007-05-23,Defender,Centre-Back,left,191.0,28000000.0,28000000.0,2029-06-30
+1111589,El Hadji Malick Diouf,2025,379,West Ham United,Senegal,2004-12-28,Defender,Left-Back,left,177.0,28000000.0,28000000.0,2030-06-30
+465830,Mattéo Guendouzi,2025,398,Società Sportiva Lazio S.p.A.,France,1999-04-14,Midfield,Central Midfield,right,185.0,27000000.0,50000000.0,2030-06-30
+553469,Gabriel Sara,2025,141,Galatasaray,Brazil,1999-06-26,Midfield,Central Midfield,left,177.0,27000000.0,27000000.0,2029-06-30
+1105541,Nathan De Cat,2025,58,RSC Anderlecht,Belgium,2008-07-19,Midfield,Central Midfield,right,192.0,27000000.0,27000000.0,
+344381,Christopher Nkunku,2025,5,AC Milan,France,1997-11-14,Attack,Centre-Forward,right,177.0,25000000.0,80000000.0,2030-06-30
+102558,Marco Verratti,2022,583,Paris Saint-Germain,Italy,1992-11-05,Midfield,Central Midfield,right,165.0,25000000.0,75000000.0,2026-06-30
+346483,Mason Mount,2025,985,Manchester United,England,1999-01-10,Midfield,Attacking Midfield,right,181.0,25000000.0,75000000.0,2028-06-30
+351478,Mikel Oyarzabal,2025,681,Real Sociedad,Spain,1997-04-21,Attack,Centre-Forward,left,181.0,25000000.0,70000000.0,2028-06-30
+324358,Ollie Watkins,2025,405,Aston Villa,England,1995-12-30,Attack,Centre-Forward,right,180.0,25000000.0,65000000.0,2028-06-30
+378710,Richarlison,2025,148,Tottenham Hotspur,Brazil,1997-05-10,Attack,Centre-Forward,right,184.0,25000000.0,65000000.0,2027-06-30
+368887,Loïs Openda,2025,506,Juventus FC,Belgium,2000-02-16,Attack,Centre-Forward,right,177.0,25000000.0,60000000.0,2030-06-30
+395516,Moussa Diaby,2025,8023,Al-Ittihad Football Club,France,1999-07-07,Attack,Right Winger,left,170.0,25000000.0,60000000.0,2029-06-30
+476701,Manuel Ugarte,2025,985,Manchester United,Uruguay,2001-04-11,Midfield,Defensive Midfield,right,182.0,25000000.0,60000000.0,2029-06-30
+571020,Oihan Sancet,2025,621,Athletic Bilbao,Spain,2000-04-25,Midfield,Attacking Midfield,right,188.0,25000000.0,60000000.0,2032-06-30
+225161,Rúben Neves,2025,1114,Al-Hilal Saudi Football Club,Portugal,1997-03-13,Midfield,Defensive Midfield,right,183.0,25000000.0,50000000.0,2029-06-30
+338424,Mikel Merino,2025,11,Arsenal FC,Spain,1996-06-22,Midfield,Central Midfield,left,188.0,25000000.0,50000000.0,2028-06-30
+334526,Denis Zakaria,2025,162,AS Monaco,Switzerland,1996-11-20,Midfield,Defensive Midfield,right,189.0,25000000.0,45000000.0,2028-06-30
+401578,Exequiel Palacios,2025,15,Bayer 04 Leverkusen,Argentina,1998-10-05,Midfield,Central Midfield,right,177.0,25000000.0,45000000.0,2030-06-30
+650568,António Silva,2025,294,SL Benfica,Portugal,2003-10-30,Defender,Centre-Back,right,187.0,25000000.0,45000000.0,2027-06-30
+333241,Joelinton,2025,762,Newcastle United,Brazil,1996-08-14,Midfield,Central Midfield,right,186.0,25000000.0,42000000.0,2028-06-30
+388165,Yoane Wissa,2025,762,Newcastle United,DR Congo,1996-09-03,Attack,Centre-Forward,right,176.0,25000000.0,42000000.0,2029-06-30
+569366,Enzo Millot,2025,18487,Al-Ahli Saudi Football Club,France,2002-07-17,Midfield,Attacking Midfield,left,175.0,25000000.0,42000000.0,2028-06-30
+408574,Joey Veerman,2025,383,PSV Eindhoven,Netherlands,1998-11-19,Midfield,Central Midfield,right,185.0,25000000.0,40000000.0,2028-06-30
+463600,Lucas Chevalier,2025,583,Paris Saint-Germain,France,2001-11-06,Goalkeeper,Goalkeeper,right,189.0,25000000.0,40000000.0,2030-06-30
+426620,Pedro Gonçalves,2025,336,Sporting CP,Portugal,1998-06-28,Attack,Left Winger,right,173.0,25000000.0,38000000.0,2030-06-30
+157509,Kurt Zouma,2025,7769,CFR Cluj,France,1994-10-27,Defender,Centre-Back,right,190.0,25000000.0,35000000.0,
+265088,Manuel Locatelli,2025,506,Juventus FC,Italy,1998-01-08,Midfield,Defensive Midfield,right,185.0,25000000.0,35000000.0,2030-06-30
+315867,Gianluca Scamacca,2025,800,Atalanta BC,Italy,1999-01-01,Attack,Centre-Forward,right,195.0,25000000.0,35000000.0,2028-06-30
+321528,Denzel Dumfries,2025,46,Inter Milan,Netherlands,1996-04-18,Defender,Right-Back,right,188.0,25000000.0,35000000.0,2030-06-30
+330659,Justin Kluivert,2025,989,AFC Bournemouth,Netherlands,1999-05-05,Midfield,Attacking Midfield,both,173.0,25000000.0,35000000.0,2028-06-30
+420213,Quinten Timber,2025,244,Olympique Marseille,Netherlands,2001-06-17,Midfield,Central Midfield,right,176.0,25000000.0,35000000.0,2030-06-30
+454567,Orkun Kökçü,2025,114,Beşiktaş Jimnastik Kulübü,Türkiye,2000-12-29,Midfield,Central Midfield,both,175.0,25000000.0,35000000.0,2030-06-30
+463605,Bafodé Diakité,2025,989,AFC Bournemouth,France,2001-01-06,Defender,Centre-Back,right,184.0,25000000.0,35000000.0,2030-06-30
+623325,Georgiy Sudakov,2025,660,FC Shakhtar Donetsk,Ukraine,2002-09-01,Midfield,Attacking Midfield,both,177.0,25000000.0,35000000.0,2029-06-30
+608172,Ardon Jashari,2025,5,AC Milan,Switzerland,2002-07-30,Midfield,Defensive Midfield,left,181.0,25000000.0,32000000.0,2030-06-30
+415381,Mats Wieffer,2025,1237,Brighton & Hove Albion,Netherlands,1999-11-16,Defender,Right-Back,right,189.0,25000000.0,30000000.0,2029-06-30
+500689,Evann Guessand,2025,873,Crystal Palace,Cote d'Ivoire,2001-07-01,Attack,Right Winger,right,188.0,25000000.0,30000000.0,2030-06-30
+566799,James Trafford,2025,281,Manchester City,England,2002-10-10,Goalkeeper,Goalkeeper,right,192.0,25000000.0,30000000.0,2030-06-30
+585959,Arnaud Kalimuendo,2025,24,Eintracht Frankfurt,France,2002-01-20,Attack,Centre-Forward,right,178.0,25000000.0,30000000.0,2030-06-30
+624258,Conor Bradley,2025,31,Liverpool FC,Northern Ireland,2003-07-09,Defender,Right-Back,right,181.0,25000000.0,30000000.0,2029-06-30
+900195,Kevin,2025,660,FC Shakhtar Donetsk,Brazil,2003-01-04,Attack,Left Winger,right,176.0,25000000.0,30000000.0,2030-06-30
+404842,Vitaliy Mykolenko,2025,29,Everton FC,Ukraine,1999-05-29,Defender,Left-Back,left,180.0,25000000.0,28000000.0,2029-06-30
+470394,Kenneth Taylor,2025,398,Società Sportiva Lazio S.p.A.,Netherlands,2002-05-16,Midfield,Central Midfield,left,182.0,25000000.0,28000000.0,2030-06-30
+537844,Anatoliy Trubin,2025,294,SL Benfica,Ukraine,2001-08-01,Goalkeeper,Goalkeeper,right,199.0,25000000.0,28000000.0,2028-06-30
+559328,Emmanuel Emegha,2025,667,RC Strasbourg Alsace,Netherlands,2003-02-03,Attack,Centre-Forward,right,196.0,25000000.0,28000000.0,2033-06-30
+730893,Tyrick Mitchell,2025,873,Crystal Palace,England,1999-09-01,Defender,Left-Back,left,181.0,25000000.0,28000000.0,2027-06-30
+800176,André,2025,543,Wolverhampton Wanderers,Brazil,2001-07-16,Midfield,Defensive Midfield,right,176.0,25000000.0,28000000.0,2030-06-30
+318204,David Raum,2025,23826,RB Leipzig,Germany,1998-04-22,Defender,Left-Back,left,181.0,25000000.0,26000000.0,2027-06-30
+620477,Kaio Jorge,2025,609,Cruzeiro Esporte Clube,Brazil,2002-01-24,Attack,Centre-Forward,right,182.0,25000000.0,26000000.0,2030-12-31
+279455,Harry Wilson,2025,931,Fulham FC,Wales,1997-03-22,Attack,Right Winger,left,173.0,25000000.0,25000000.0,2030-06-30
+332705,Tyler Adams,2025,989,AFC Bournemouth,United States,1999-02-14,Midfield,Defensive Midfield,right,175.0,25000000.0,25000000.0,2028-06-30
+333014,Sander Berge,2025,931,Fulham FC,Norway,1998-02-14,Midfield,Defensive Midfield,right,195.0,25000000.0,25000000.0,2029-06-30
+346890,Noah Okafor,2025,399,Leeds United,Switzerland,2000-05-24,Attack,Left Winger,right,185.0,25000000.0,25000000.0,2029-06-30
+370789,Julian Ryerson,2025,16,Borussia Dortmund,Norway,1997-11-17,Defender,Right-Back,right,183.0,25000000.0,25000000.0,2028-06-30
+399434,Marcus Tavernier,2025,989,AFC Bournemouth,England,1999-03-22,Midfield,Attacking Midfield,left,178.0,25000000.0,25000000.0,2029-06-30
+404950,Nicolas Seiwald,2025,23826,RB Leipzig,Austria,2001-05-04,Midfield,Defensive Midfield,right,179.0,25000000.0,25000000.0,2028-06-30
+418543,Perr Schuurs,2024,416,Torino FC,Netherlands,1999-11-26,Defender,Centre-Back,right,191.0,25000000.0,25000000.0,
+432164,Igor Jesus,2025,703,Nottingham Forest,Brazil,2001-02-25,Attack,Centre-Forward,right,179.0,25000000.0,25000000.0,2029-06-30
+436064,Ramon Hendriks,2025,79,VfB Stuttgart,Netherlands,2001-07-18,Defender,Centre-Back,left,189.0,25000000.0,25000000.0,2028-06-30
+469781,Marcos Senesi,2025,989,AFC Bournemouth,Argentina,1997-05-10,Defender,Centre-Back,left,184.0,25000000.0,25000000.0,2030-06-30
+515744,Eduard Spertsyan,2025,16704,FK Krasnodar,Armenia,2000-06-07,Midfield,Attacking Midfield,right,178.0,25000000.0,25000000.0,2029-06-30
+523318,Anastasios Douvikas,2025,1047,Como 1907,Greece,1999-08-02,Attack,Centre-Forward,right,186.0,25000000.0,25000000.0,2029-06-30
+526845,Noah Atubolu,2025,60,SC Freiburg,Germany,2002-05-25,Goalkeeper,Goalkeeper,right,190.0,25000000.0,25000000.0,2027-06-30
+548254,Nathan Ngoy,2025,1082,LOSC Lille,Belgium,2003-06-10,Defender,Centre-Back,right,183.0,25000000.0,25000000.0,2029-06-30
+552655,Troy Parrott,2025,1090,AZ Alkmaar,Ireland,2002-02-04,Attack,Centre-Forward,right,185.0,25000000.0,25000000.0,2029-06-30
+579459,Albian Hajdari,2025,533,TSG 1899 Hoffenheim,Kosovo,2003-05-18,Defender,Centre-Back,left,189.0,25000000.0,25000000.0,2031-06-30
+597659,Charlie Cresswell,2025,415,FC Toulouse,England,2002-08-17,Defender,Centre-Back,right,190.0,25000000.0,25000000.0,2028-06-30
+644401,Keane Lewis-Potter,2025,1148,Brentford FC,England,2001-02-22,Midfield,Left Midfield,right,170.0,25000000.0,25000000.0,2031-06-30
+651580,Matvey Kislyak,2025,2410,PFK CSKA Moskva,Russia,2005-07-26,Midfield,Central Midfield,right,180.0,25000000.0,25000000.0,2029-06-30
+652275,Hákon Arnar Haraldsson,2025,1082,LOSC Lille,Iceland,2003-04-10,Midfield,Attacking Midfield,right,178.0,25000000.0,25000000.0,2030-06-30
+655006,Diego Moreira,2025,667,RC Strasbourg Alsace,Belgium,2004-08-06,Midfield,Left Midfield,left,179.0,25000000.0,25000000.0,2029-06-30
+655217,Samson Baidoo,2025,826,RC Lens,Austria,2004-03-31,Defender,Centre-Back,right,190.0,25000000.0,25000000.0,2030-06-30
+660867,Julio Enciso,2025,667,RC Strasbourg Alsace,Paraguay,2004-01-23,Midfield,Attacking Midfield,right,173.0,25000000.0,25000000.0,2029-06-30
+669380,Konstantinos Koulierakis,2025,82,VfL Wolfsburg,Greece,2003-11-28,Defender,Centre-Back,left,188.0,25000000.0,25000000.0,2029-06-30
+679423,Tarik Muharemović,2025,6574,US Sassuolo,Bosnia-Herzegovina,2003-02-28,Defender,Centre-Back,left,192.0,25000000.0,25000000.0,2031-06-30
+701979,Geny Catamo,2025,336,Sporting CP,Mozambique,2001-01-26,Attack,Right Winger,left,172.0,25000000.0,25000000.0,2028-06-30
+709372,Carlos Romero,2025,714,RCD Espanyol Barcelona,Spain,2001-10-29,Defender,Left-Back,left,174.0,25000000.0,25000000.0,2031-06-30
+711374,Jon Gorrotxategi,2025,681,Real Sociedad,Spain,2002-02-02,Midfield,Defensive Midfield,right,177.0,25000000.0,25000000.0,2030-06-30
+717329,Nicolò Tresoldi,2025,2282,Club Brugge KV,Germany,2004-08-20,Attack,Centre-Forward,right,186.0,25000000.0,25000000.0,2029-06-30
+718303,Ernest Poku,2025,1090,AZ Alkmaar,Netherlands,2004-01-28,Attack,Right Winger,right,176.0,25000000.0,25000000.0,2030-06-30
+735568,Natan,2025,150,Real Betis Balompié,Brazil,2001-02-06,Defender,Centre-Back,left,188.0,25000000.0,25000000.0,2030-06-30
+735573,Richard Ríos,2025,294,SL Benfica,Colombia,2000-06-02,Midfield,Defensive Midfield,right,185.0,25000000.0,25000000.0,2030-06-30
+743384,Chemsdine Talbi,2025,289,Sunderland AFC,Morocco,2005-05-09,Attack,Right Winger,right,175.0,25000000.0,25000000.0,2030-06-30
+805714,Renato Veiga,2025,1050,Villarreal CF,Portugal,2003-07-29,Defender,Centre-Back,left,188.0,25000000.0,25000000.0,2032-06-30
+834397,Mike Penders,2025,667,RC Strasbourg Alsace,Belgium,2005-07-31,Goalkeeper,Goalkeeper,left,200.0,25000000.0,25000000.0,2032-06-30
+834764,Javi Guerra,2025,1049,Valencia CF,Spain,2003-05-13,Midfield,Central Midfield,right,187.0,25000000.0,25000000.0,2029-06-30
+844797,José Manuel López,2025,1023,Sociedade Esportiva Palmeiras,Argentina,2000-12-06,Attack,Centre-Forward,left,190.0,25000000.0,25000000.0,2029-12-31
+855308,Arthur Atta,2025,410,Udinese Calcio,France,2003-01-14,Midfield,Central Midfield,right,189.0,25000000.0,25000000.0,2029-06-30
+859035,Kees Smit,2025,1090,AZ Alkmaar,Netherlands,2006-01-20,Midfield,Central Midfield,right,185.0,25000000.0,25000000.0,2028-06-30
+921655,Ismaël Koné,2025,6574,US Sassuolo,Canada,2002-06-16,Midfield,Central Midfield,right,188.0,25000000.0,25000000.0,2030-06-30
+922769,Lewis Miley,2025,762,Newcastle United,England,2006-05-01,Midfield,Central Midfield,right,189.0,25000000.0,25000000.0,2032-06-30
+939964,Jean-Mattéo Bahoya,2025,24,Eintracht Frankfurt,France,2005-05-07,Attack,Left Winger,right,180.0,25000000.0,25000000.0,2029-06-30
+947411,Chris Rigg,2025,289,Sunderland AFC,England,2007-06-18,Midfield,Attacking Midfield,left,177.0,25000000.0,25000000.0,2030-06-30
+964426,Christos Mouzakitis,2025,683,Olympiakos Syndesmos Filathlon Peiraios,Greece,2006-12-25,Midfield,Central Midfield,left,180.0,25000000.0,25000000.0,2029-06-30
+982575,Gustavo Sá,2025,3329,FC Famalicão,Portugal,2004-11-11,Midfield,Attacking Midfield,right,189.0,25000000.0,25000000.0,2029-06-30
+996897,Diego Gómez,2025,1237,Brighton & Hove Albion,Paraguay,2003-03-27,Midfield,Central Midfield,right,183.0,25000000.0,25000000.0,2030-06-30
+997903,Givairo Read,2025,234,Feyenoord Rotterdam,Netherlands,2006-06-02,Defender,Right-Back,right,175.0,25000000.0,25000000.0,2029-06-30
+1004708,Josh Acheampong,2025,631,Chelsea FC,England,2006-05-05,Defender,Right-Back,right,190.0,25000000.0,25000000.0,2029-06-30
+1004725,William Gomes,2025,720,FC Porto,Brazil,2006-03-15,Attack,Right Winger,left,171.0,25000000.0,25000000.0,2029-06-30
+1011131,Josh King,2025,931,Fulham FC,England,2007-01-03,Midfield,Attacking Midfield,right,173.0,25000000.0,25000000.0,2029-06-30
+1018938,Jon Martín,2025,681,Real Sociedad,Spain,2006-04-23,Defender,Centre-Back,right,187.0,25000000.0,25000000.0,2031-06-30
+1060087,Charalampos Kostoulas,2025,1237,Brighton & Hove Albion,Greece,2007-05-30,Attack,Centre-Forward,right,185.0,25000000.0,25000000.0,2030-06-30
+1073632,Vasilije Kostov,2025,159,Red Star Belgrade,Serbia,2008-05-11,Midfield,Attacking Midfield,right,176.0,25000000.0,25000000.0,2028-06-30
+1086619,Giovanni Leoni,2025,31,Liverpool FC,Italy,2006-12-21,Defender,Centre-Back,right,196.0,25000000.0,25000000.0,2031-06-30
+1162012,Oskar Pietuszewski,2025,720,FC Porto,Poland,2008-05-20,Attack,Left Winger,right,179.0,25000000.0,25000000.0,2031-06-30
+1241207,Tylel Tati,2025,995,FC Nantes,France,2008-01-19,Defender,Centre-Back,left,192.0,25000000.0,25000000.0,2030-06-30
+800175,Luiz Henrique,2025,964,AO FK Zenit Sankt-Peterburg,Brazil,2001-01-02,Attack,Right Winger,left,182.0,24000000.0,25000000.0,2028-12-31
+668606,Yuito Suzuki,2025,60,SC Freiburg,Japan,2001-10-25,Attack,Second Striker,right,175.0,24000000.0,24000000.0,
+469822,David Neres,2025,6195,SSC Napoli,Brazil,1997-03-03,Attack,Right Winger,left,176.0,23000000.0,45000000.0,2028-06-30
+525704,Nicolò Rovella,2025,398,Società Sportiva Lazio S.p.A.,Italy,2001-12-04,Midfield,Defensive Midfield,right,179.0,23000000.0,30000000.0,2028-06-30
+569598,Youssouf Fofana,2025,5,AC Milan,France,1999-01-10,Midfield,Defensive Midfield,right,185.0,23000000.0,30000000.0,2028-06-30
+648779,Wilfried Singo,2025,141,Galatasaray,Cote d'Ivoire,2000-12-25,Defender,Right-Back,right,182.0,23000000.0,28000000.0,2030-06-30
