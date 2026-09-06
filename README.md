@@ -67,20 +67,19 @@ football-scouting-sql-portfolio/
 │   ├── sample_appearances.csv
 │   ├── sample_transfers.csv
 │   ├── import_sample_data.sql
-│   └── DATA_DICTIONARY.md
+│   
 ├── queries/
 │   ├── 01_beginner_questions.sql
 │   ├── 02_intermediate_questions.sql
 │   └── 03_advanced_questions.sql
-├── analysis/
-│   └── key_insights.csv
+│
 ├── screenshots/
 │   ├── er_diagram.png
-│   └── SCREENSHOT_CHECKLIST.md
+│   └── beginner.png
+│   └── advanced.png
+│   └──intermediate.png
 ├── scripts/
-│   └── create_sample_from_archive.py
-└── powerbi/
-    └── POWER_BI_BUILD_GUIDE.md
+   └── create_sample_from_archive.py
 ```
 
 ## How to run it in MySQL Workbench
